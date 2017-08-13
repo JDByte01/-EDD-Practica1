@@ -9,7 +9,7 @@ Versión 1.0
   # |[EDD]Practica1
     -> | bin
         -> | Debug
-            # -> | servidor
+            -> | servidor
                 -> | app
                     -> | public
                         -> style.css
