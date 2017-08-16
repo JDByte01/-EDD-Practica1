@@ -6,4 +6,6 @@
 
 from app import app # de la carpeta app importar 
 					#la variable app que contiene a Flask
-app.run(debug = True)
+
+#192.168.43.225
+app.run(debug = True, host='0.0.0.0')	#para que jale desde otra pc

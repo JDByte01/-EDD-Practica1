@@ -19,6 +19,7 @@ namespace _EDD_Practica1
         public Dashboard()
         {
             InitializeComponent();
+      
             mostrarTabla();                         //Mostramos tabla del dashboard en el webBrows
 
             this.myNodo.Text = this.NodoCarnet;     //En la etiqueta myNodo ponemos la información obtenida
@@ -42,7 +43,7 @@ namespace _EDD_Practica1
         {
             try
             {
-                webBrowser.Url = new Uri("file:///C:/Users/JOSED/Documents/Visual%20Studio%202017/Projects/[EDD]Practica1/[EDD]Practica1/bin/Debug/servidor/app/template/tablaDashboard.html");
+                webBrowser.Url = new Uri("http://localhost:5000/dashboard");
             }
             catch (Exception)
             {

@@ -9,3 +9,5 @@ C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practic
 C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practica1\obj\Debug\[EDD]Practica1.pdb
 C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practica1\obj\Debug\_EDD_Practica1.Dashboard.resources
 C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practica1\obj\Debug\_EDD_Practica1.RespuestaMensaje.resources
+C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practica1\obj\Debug\_EDD_Practica1.ColaMensaje.resources
+C:\Users\JOSED\Documents\Visual Studio 2017\Projects\[EDD]Practica1\[EDD]Practica1\obj\Debug\_EDD_Practica1.EnviarMensaje.resources

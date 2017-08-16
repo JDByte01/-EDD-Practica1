@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	background: #404040;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+table {
+	width: 95%;
+	margin: 0 auto;
+	text-align: center;
+	border-collapse: collapse;
+	color: #C4C4C4;
+}
+table th {
+	background: #556B2F;
+	font-weight: 500;
+	border-bottom: solid 2px #FFFFFF;
+	color: #C4C4C4;
+}
